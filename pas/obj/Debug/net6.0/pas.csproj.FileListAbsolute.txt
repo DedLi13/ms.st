@@ -1,0 +1,15 @@
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\bin\Debug\net6.0\pas.exe
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\bin\Debug\net6.0\pas.deps.json
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\bin\Debug\net6.0\pas.runtimeconfig.json
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\bin\Debug\net6.0\pas.dll
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\bin\Debug\net6.0\pas.pdb
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\pas.csproj.AssemblyReference.cache
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\pas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\pas.AssemblyInfoInputs.cache
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\pas.AssemblyInfo.cs
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\pas.csproj.CoreCompileInputs.cache
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\pas.dll
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\refint\pas.dll
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\pas.pdb
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\pas.genruntimeconfig.cache
+C:\Users\ded_y\OneDrive\Рабочий стол\GB\pas\obj\Debug\net6.0\ref\pas.dll
